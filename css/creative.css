@@ -25,7 +25,7 @@ hr.light {
 }
 
 a {
-    color: #45d839;
+    color: #61ca30;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -90,6 +90,13 @@ aside {
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     font-weight: 700;
     color: #61ca30;
+    padding-left: 45px;
+    background-image: url(/img/logo-icon.png);
+    background-size: 40px;
+   margin-left: 0px;
+   background-position: left center;
+   background-repeat: no-repeat;
+
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
@@ -128,7 +135,7 @@ aside {
     }
 
     .navbar-default .navbar-header .navbar-brand {
-        color: rgba(255,255,255,.7);
+        color: rgba(255,255,255,1.0);
     }
 
     .navbar-default .navbar-header .navbar-brand:hover,
@@ -138,7 +145,7 @@ aside {
 
     .navbar-default .nav > li>a,
     .navbar-default .nav>li>a:focus {
-        color: rgba(255,255,255,.7);
+        color: rgba(255,255,255,1.0);
     }
 
     .navbar-default .nav > li>a:hover,
@@ -208,7 +215,7 @@ header .header-content .header-content-inner p {
     margin-bottom: 50px;
     font-size: 16px;
     font-weight: 300;
-    color: rgba(255,255,255,.7);
+    color: rgba(255,255,255,1.0);
 }
 
 @media(min-width:768px) {
