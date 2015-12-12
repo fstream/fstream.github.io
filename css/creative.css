@@ -498,12 +498,12 @@ img::-moz-selection {
    background: 0 0;
 }
 
-#video {
+#product {
    background-color: black;
    height: 100%;
    padding: 0 20px;
 }
-#video iframe {
+#product iframe {
    margin: 0 auto;
    display: block;
    max-height; 720px;
@@ -527,7 +527,7 @@ footer .footer-copyright {
 }
 
 #team .linkedin {
-   background-image: url(/img/linkedin.png);
+   background-image: url('/img/linkedin.png');
    background-repeat: none;
    background-size: 100% 100%;
    color: transparent;
