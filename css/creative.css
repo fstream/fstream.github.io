@@ -524,5 +524,15 @@ footer .footer-copyright {
     overflow: hidden;
     height: 50px;
     line-height: 50px;
+}
+
+#team .linkedin {
+   background-image: url(/img/linkedin.png);
+   background-repeat: none;
+   background-size: 100% 100%;
+   color: transparent;
+   display: inline-block;
+   height: 18px;
+   width: 18px;
 
 }
