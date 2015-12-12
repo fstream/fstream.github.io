@@ -534,5 +534,9 @@ footer .footer-copyright {
    display: inline-block;
    height: 18px;
    width: 18px;
+}
 
+#contact .input-group-addon {
+   color: #61ca30;
+   background-color: #fafafa;
 }
